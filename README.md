@@ -21,6 +21,7 @@ This Project consists of two Components:
 
  - The webinterface (can be found [here](https://github.com/SmartblocksAT/SmartblocksWeb))
  - ESP32 Library (this repository)
+ - Schematics, etc. (an be found [here](https://github.com/SmartblocksAT/SmartblocksKiCad))
 
 ## Who is responsible for this?
 Lukas Kamleitner <lukas.kamleitner@smartblocks.dev>
