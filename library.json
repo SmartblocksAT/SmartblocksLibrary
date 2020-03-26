@@ -1,0 +1,11 @@
+{
+  "name": "Smartblocks",
+  "version": "1.0.0",
+  "keywords": "smartblocks htlwy",
+  "description": "Library to inteface with the webserver at https://smartblocks.dev",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/SmartblocksAT/SmartblocksLibrary.git"
+  },
+}
