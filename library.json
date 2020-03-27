@@ -1,7 +1,7 @@
 {
   "name": "Smartblocks",
   "version": "1.0.0",
-  "keywords": "smartblocks htlwy",
+  "keywords": "smartblocks, smartblock, htlwy",
   "description": "Library to interface with the webserver at https://smartblocks.dev",
   "repository":
   {
