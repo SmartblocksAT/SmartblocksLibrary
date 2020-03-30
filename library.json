@@ -1,11 +1,31 @@
 {
-  "name": "Smartblocks",
-  "version": "1.0.2",
-  "keywords": "smartblocks, smartblock, htlwy, esp32",
-  "description": "Library to interface with the webserver at https://smartblocks.dev",
-  "repository":
-  {
-    "type": "git",
-    "url": "https://github.com/SmartblocksAT/SmartblocksLibrary.git"
-  }
+    "name": "Smartblocks",
+    "version": "1.0.3",
+    "keywords": "smartblocks, smartblock, htlwy, esp32",
+    "description": "Library to interface with the webserver at https://smartblocks.dev",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/SmartblocksAT/SmartblocksLibrary.git"
+    },
+    "dependencies":
+    {
+        "name": "WiFi",
+        "authors": "Arduino",
+        "frameworks": "arduino"
+    },
+    "authors":
+    [
+        {
+            "maintainer": true, 
+            "name": "Maximilian Mernacher",
+            "url": "https://github.com/TheRedFreak",
+            "email": "maximilian.mernacher@smartblocks.dev"
+        },
+        {
+            "maintainer": false, 
+            "name": "Lukas Kamleitner",
+            "email": "lukas.kamleitner@smartblocks.dev"
+        }
+    ]
 }
