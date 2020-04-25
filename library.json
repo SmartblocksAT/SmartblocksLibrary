@@ -17,7 +17,7 @@
             "email": "maximilian.mernacher@smartblocks.dev"
         },
         {
-            "maintainer": false, 
+            "maintainer": true, 
             "name": "Lukas Kamleitner",
             "email": "lukas.kamleitner@smartblocks.dev"
         }
