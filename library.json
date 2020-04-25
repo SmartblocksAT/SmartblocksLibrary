@@ -1,18 +1,13 @@
 {
     "name": "Smartblocks",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "keywords": "smartblocks, smartblock, htlwy, esp32",
     "description": "Library to interface with the webserver at https://smartblocks.dev",
     "repository":
     {
         "type": "git",
         "url": "https://github.com/SmartblocksAT/SmartblocksLibrary.git"
-    },
-    "dependencies":
-    {
-        "name": "WiFi",
-        "author": "Hristo Gochkov"
-    },
+    },   
     "authors":
     [
         {
